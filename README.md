@@ -267,3 +267,6 @@ This repository serves as the official landing page for iVoox. The software is d
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of iVoox today!**
+
+---
+**Last updated:** 2026-09-12 00:56:37 UTC
