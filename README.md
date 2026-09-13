@@ -269,4 +269,4 @@ This repository serves as the official landing page for iVoox. The software is d
 **Get the most recent version of iVoox today!**
 
 ---
-**Last updated:** 2026-09-13 09:10:23 UTC
+**Last updated:** 2026-09-13 14:08:10 UTC
